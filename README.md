@@ -1,6 +1,6 @@
 # Illuvium Test
 
-NOTE: A pdf version of this README is available in the root directory. it is called README.pdf.
+NOTE: A pdf version of this README is available in the root directory. It is called README.pdf.
 
 NOTE: This repo only contains the source files, solution file, uproject and contents. Git wasn't allowing 
 me to push such a large amount of data. For full version of game, 
