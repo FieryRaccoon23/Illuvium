@@ -90,7 +90,9 @@ game flow would have to be changed. A state machine might be better used here. T
 would have to find the closest enemy. This was a hurdle since an enemy can be closest to both
 the players. Greedy algorithm might have been used to find the closest enemies (since the sum
 of all players to their enemies has to be smallest). Like in the image below where the purple
-arrow shows the best combination for each player and its enemy
+arrow shows the best combination for each player and its enemy:
+
+![Image](Greedy.png)
 
 -------------------------------------------------------------------
 D. Bugs:
